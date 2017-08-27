@@ -1,0 +1,8 @@
+raw	/wanglab1/guanjt/DEG_qin_new_genome.dir/Raw_data.dir/	#folder for fastq files
+gout	/wanglab1/guanjt/DEG_qin_new_genome.dir/Pipeline.test.dir/GATK.dir/		#folder for assambled transcrpt
+sout	/wanglab1/guanjt/DEG_qin_new_genome.dir/Pipeline.test.dir/indiv.dir/	#folder for each sample
+genome	/wanglab1/guanjt/DEG_qin_new_genome.dir/genome_without_scaffold.dir/Star_index.dir/Bdistachyon_314_v3.0.clean.fa
+picard	/wanglab2/guanjt/software.dir/picard-tools-2.1.1/picard.jar
+GATK	/wanglab2/guanjt/software.dir/GenomeAnalysisTK-3.5.dir/GenomeAnalysisTK.jar
+tmp	/wanglab2/guanjt/ZhangQiang_BSR.dir/Temp.dir
+index	/wanglab1/guanjt/DEG_qin_new_genome.dir/genome_without_scaffold.dir/Star_index.dir/
